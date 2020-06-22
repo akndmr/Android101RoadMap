@@ -9,4 +9,5 @@ Android Developer Beginner Roadmap
 3. Basic Terminal usage
 4. Git
 5. Gitflow
-6. 
+6. Data Structures & Algorithms
+7. OOP
