@@ -6,4 +6,7 @@ Android Developer Beginner Roadmap
 
 1. Basic Networking
 2. Some 3rd Party libs integration&usage
-3. 
+3. Basic Terminal usage
+4. Git
+5. Gitflow
+6. 
